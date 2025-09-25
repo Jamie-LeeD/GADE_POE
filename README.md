@@ -3,7 +3,8 @@ Developed with Unreal Engine 5
 
 Part 1 Group Tasks
 -------------------------------------------------------------------------------------------------------------------------------------------------
-Project Schedule - [GADE_P1_ProjectSchedule.xlsx](https://github.com/user-attachments/files/22524242/GADE_P1_ProjectSchedule.xlsx)
+Project Schedule - [GADE_P1_ProjectSchedule.xlsx](https://github.com/user-attachments/files/22549317/GADE_P1_ProjectSchedule.xlsx)
+
 Code References & Bibliography - 
 
 Part 1 Individual Tasks
