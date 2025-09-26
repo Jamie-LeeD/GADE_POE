@@ -5,7 +5,8 @@ Part 1 Group Tasks
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Project Schedule - [GADE_P1_ProjectSchedule.xlsx](https://github.com/user-attachments/files/22549317/GADE_P1_ProjectSchedule.xlsx)
 
-Code References & Bibliography - 
+Code References & Bibliography - [Code_References_Bibliography.pdf](https://github.com/user-attachments/files/22559831/Code_References_Bibliography.pdf)
+
 
 Part 1 Individual Tasks
 ------------------------------------------------------------------------------------------------------------------------------------------------
