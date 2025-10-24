@@ -23,7 +23,7 @@ Part 2 Group Tasks
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Project Schedule - [GADE_P2_ProjectSchedule.xlsx](https://github.com/user-attachments/files/23121163/GADE_P2_ProjectSchedule.xlsx)
 
-Code References & Bibliography -
+Code References & Bibliography -[GADE_P2_Code_References_Bibliography.pdf](https://github.com/user-attachments/files/23126824/GADE_P2_Code_References_Bibliography.pdf)
 
 Part 2 Individual Tasks
 ------------------------------------------------------------------------------------------------------------------------------------------------
