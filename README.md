@@ -27,11 +27,11 @@ Code References & Bibliography -[GADE_P2_Code_References_Bibliography.pdf](https
 
 Part 2 Individual Tasks
 ------------------------------------------------------------------------------------------------------------------------------------------------
-ST10453245 Documentation - 
+ST10453245 Documentation - [ST10453245_P2_Documentation.pdf](https://github.com/user-attachments/files/23133676/ST10453245_P2_Documentation.pdf)
 
 ST10453245 Video Presentation - 
 
 
-ST10441037 Documentation - 
+ST10441037 Documentation - [ST10441037_GADEP2_Writeup.pdf](https://github.com/user-attachments/files/23133680/ST10441037_GADEP2_Writeup.pdf)
 
 ST10441037 Video Presentation - 
