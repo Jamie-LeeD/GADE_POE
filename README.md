@@ -18,3 +18,20 @@ ST10453245 Video Presentation - https://drive.google.com/file/d/1oRorhSf3ZIAOR2-
 ST10441037 Documentation - [ST10441037_GADEP1_Writeup.pdf](https://github.com/user-attachments/files/22565395/ST10441037_GADEP1_Writeup.pdf)
 
 ST10441037 Video Presentation - 
+
+Part 2 Group Tasks
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Project Schedule - 
+
+Code References & Bibliography -
+
+Part 2 Individual Tasks
+------------------------------------------------------------------------------------------------------------------------------------------------
+ST10453245 Documentation - 
+
+ST10453245 Video Presentation - 
+
+
+ST10441037 Documentation - 
+
+ST10441037 Video Presentation - 
