@@ -21,7 +21,7 @@ ST10441037 Video Presentation -
 
 Part 2 Group Tasks
 -------------------------------------------------------------------------------------------------------------------------------------------------
-Project Schedule - 
+Project Schedule - [GADE_P2_ProjectSchedule.xlsx](https://github.com/user-attachments/files/23121163/GADE_P2_ProjectSchedule.xlsx)
 
 Code References & Bibliography -
 
