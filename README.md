@@ -29,9 +29,27 @@ Part 2 Individual Tasks
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ST10453245 Documentation - [ST10453245_P2_Documentation.pdf](https://github.com/user-attachments/files/23133729/ST10453245_P2_Documentation.pdf)
 
-ST10453245 Video Presentation - 
+ST10453245 Video Presentation - https://drive.google.com/file/d/1TFzW7Zc02Xx5Fsc52w5FJcNUda41rJnR/view?usp=sharing 
 
 
 ST10441037 Documentation - [ST10441037_GADEP2_Writeup.pdf](https://github.com/user-attachments/files/23133680/ST10441037_GADEP2_Writeup.pdf)
+
+ST10441037 Video Presentation - 
+
+Part 3 Group Tasks
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Project Schedule - [GADE_P3_ProjectSchedule.xlsx](https://github.com/user-attachments/files/23766346/GADE_P3_ProjectSchedule.xlsx)
+
+Code References & Bibliography -[GADE_P3_Code_References_Bibliography.pdf](https://github.com/user-attachments/files/23765962/GADE_P3_Code_References_Bibliography.pdf)
+
+Part 3 Individual Tasks
+------------------------------------------------------------------------------------------------------------------------------------------------
+ST10453245 Documentation - 
+
+ST10453245 Video Presentation - 
+
+
+
+ST10441037 Documentation -
 
 ST10441037 Video Presentation - 
