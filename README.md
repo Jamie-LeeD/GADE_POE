@@ -38,7 +38,7 @@ ST10441037 Video Presentation -
 
 Part 3 Group Tasks
 -------------------------------------------------------------------------------------------------------------------------------------------------
-Project Schedule -
+Project Schedule - [GADE_P3_ProjectSchedule.xlsx](https://github.com/user-attachments/files/23766346/GADE_P3_ProjectSchedule.xlsx)
 
 Code References & Bibliography -[GADE_P3_Code_References_Bibliography.pdf](https://github.com/user-attachments/files/23765962/GADE_P3_Code_References_Bibliography.pdf)
 
@@ -47,6 +47,7 @@ Part 3 Individual Tasks
 ST10453245 Documentation - 
 
 ST10453245 Video Presentation - 
+
 
 
 ST10441037 Documentation -
