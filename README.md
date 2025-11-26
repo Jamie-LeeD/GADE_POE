@@ -44,12 +44,12 @@ Code References & Bibliography -[GADE_P3_Code_References_Bibliography.pdf](https
 
 Part 3 Individual Tasks
 ------------------------------------------------------------------------------------------------------------------------------------------------
-ST10453245 Documentation - 
+ST10453245 Documentation - [ST10453245_P3Documentation.pdf](https://github.com/user-attachments/files/23778935/ST10453245_P3Documentation.pdf)
 
 ST10453245 Video Presentation - 
 
 
 
-ST10441037 Documentation -
+ST10441037 Documentation -[ST10441037_GADEP3_Writeup.pdf](https://github.com/user-attachments/files/23778933/ST10441037_GADEP3_Writeup.pdf)
 
 ST10441037 Video Presentation - 
